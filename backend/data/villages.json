@@ -1,0 +1,55 @@
+{
+  "KARNATAKA": {
+    "DAVANGERE": {
+      "taluks": {
+        "Davanagere": ["Anagodu", "Basavanakote", "Belagodu", "Benakanhalli", "Bhadravathe", "Chikkabasavana", "Doddabathi", "Holehonnur", "Hulikere", "Idagodu", "Jakkali", "Kammaragatta", "Kariholar", "Kondajji", "Lokikere", "Madadakatte", "Malebennur", "Mayakonda", "Nagathana", "Nittuvalli", "Oddarahatti", "Punjanur", "Ramagiri", "Shivaganga", "Tarikere", "Ujjini", "Vaddarhatti"],
+        "Harihar": ["Akkihebbal", "Anavatti", "Basapur", "Belludi", "Byagavat", "Chikkajajur", "Devihosur", "Gadag", "Haralahalli", "Hirehonnalli", "Honnenahalli", "Hoovina Hadagali", "Huliyar", "Jambagi", "Kaginele", "Kolandur", "Madapur", "Naganur", "Neharu", "Rampura", "Sakrebylu", "Shirahatti", "Tadakatte", "Ulavi", "Venkatapur"],
+        "Harpanahalli": ["Alur", "Basapur", "Belavangala", "Chikkajogihalli", "Doddajogihalli", "Gopagondanahalli", "Guttur", "Hadagali", "Hireguntanur", "Hire Sangam", "Holesirigere", "Hulikunte", "Ikkeri", "Jagalur Road", "Jambagi", "Kadlebalu", "Konanur", "Kudligi", "Kurugodu", "Lakshmipura", "Mallapur", "Nayakanahatti", "Nyamati", "Rampura", "Sakrebylu"],
+        "Channagiri": ["Ajjampura", "Anavatti", "Aralalusandra", "Banavara", "Basavanakote", "Belavangala", "Chikkajajur", "Doddabathi", "Guttur", "Hadagali", "Hirehalli", "Holesirigere", "Hulikere", "Ikkeri", "Jagalur", "Jambagi", "Kadlebalu", "Konanur", "Kudligi", "Kurugodu"],
+        "Jagalur": ["Alur", "Anagodu", "Basapur", "Belavangala", "Chikkabasavana", "Doddajogihalli", "Gopagondanahalli", "Guttur", "Hadagali", "Hireguntanur", "Holesirigere", "Hulikunte", "Ikkeri", "Jambagi", "Kadlebalu", "Konanur", "Kudligi", "Kurugodu", "Lakshmipura", "Mallapur"],
+        "Honnali": ["Ajjampura", "Anavatti", "Aralalusandra", "Banavara", "Basavanakote", "Belagodu", "Chikkabathi", "Doddabathi", "Guttur", "Hadagali", "Hirehalli", "Holesirigere", "Hulikere", "Ikkeri", "Jambagi", "Kadlebalu", "Konanur", "Kudligi", "Kurugodu", "Lakshmipura"]
+      },
+      "coordinates": {"lat": 14.4644, "lon": 75.9218}
+    },
+    "MYSORE": {
+      "taluks": {
+        "Mysuru": ["Belagola", "Bilikere", "Bogadi", "Chamundipuram", "Dattagalli", "Gundlupet Road", "Hebbal", "Hinkal", "Hootagalli", "Hunsur Road", "Jayalakshmipuram", "Kadakola", "Kesare", "Kuvempunagar", "Lalithadripura", "Mandi Mohalla", "Narasimharaja", "Rajendranagar", "Saraswathipuram", "Srirampura", "T Narasipur", "Udayagiri", "Varuna", "Vijayanagar", "Yadavagiri"],
+        "Hunsur": ["Antharasanthe", "Arjunahalli", "Attahalli", "Bilikere", "Bommahalli", "Bylakuppe", "Chikkahunsur", "Gandanahalli", "Hanagodu", "Hediyala", "Honnalagere", "Hulikal", "Kallahalli", "Kenchanahalli", "Krishnarajanagar", "Malalur", "Nanjangud Road", "Piriyapatna", "Sargur", "Talkadu"]
+      },
+      "coordinates": {"lat": 12.2958, "lon": 76.6394}
+    },
+    "UDUPI": {
+      "taluks": {
+        "Udupi": ["Ajri", "Brahmavar", "Hejmady", "Kaup", "Kinnigoli", "Kundapur", "Manipal", "Mudabidri", "Mulki", "Padubidri", "Perdoor", "Saligrama", "Shankaranarayana", "Shirva", "Trasi", "Udyavara", "Vakwadi"],
+        "Kundapur": ["Amasebail", "Baindur", "Barkur", "Basrur", "Byndoor", "Gangolli", "Hemmadi", "Jadkal", "Kavradi", "Koteshwara", "Maravanthe", "Navunda", "Padubidri", "Sauparnika", "Trasi"]
+      },
+      "coordinates": {"lat": 13.3409, "lon": 74.7421}
+    }
+  },
+  "RAJASTHAN": {
+    "BIKANER": {
+      "taluks": {
+        "Bikaner": ["Bajju", "Deshnok", "Dungargarh", "Gajner", "Khajuwala", "Kolayat", "Lunkaransar", "Nokha", "Poogal", "Shri Dungargarh"],
+        "Nokha": ["Bap", "Barawala", "Bhinasar", "Chhatatgarh", "Jasrasar", "Khajuwala", "Lunkaransar", "Mahajan", "Mugalsar", "Pungal"]
+      },
+      "coordinates": {"lat": 28.0229, "lon": 73.3119}
+    }
+  },
+  "MAHARASHTRA": {
+    "MUMBAI": {
+      "taluks": {
+        "Mumbai City": ["Bandra", "Borivali", "Chembur", "Colaba", "Dadar", "Dharavi", "Ghatkopar", "Juhu", "Kurla", "Malad", "Mulund", "Powai", "Thane", "Versova", "Vikhroli"],
+        "Mumbai Suburban": ["Andheri", "Goregaon", "Kandivali", "Khar", "Santacruz", "Vile Parle"]
+      },
+      "coordinates": {"lat": 19.0760, "lon": 72.8777}
+    }
+  },
+  "TELANGANA": {
+    "HYDERABAD": {
+      "taluks": {
+        "Hyderabad": ["Ameerpet", "Banjara Hills", "Begumpet", "Charminar", "Dilsukhnagar", "Gachibowli", "Hitech City", "Jubilee Hills", "Kukatpally", "LB Nagar", "Madhapur", "Mehdipatnam", "Miyapur", "Secunderabad", "Uppal"]
+      },
+      "coordinates": {"lat": 17.3850, "lon": 78.4867}
+    }
+  }
+}
